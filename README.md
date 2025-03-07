@@ -20,7 +20,7 @@ Step 3: Save the Files
     Create a folder on your computer, for example, name it MonsterHunterApp.
     Download and save the following files in the same folder:
         MHWItems.py
-        MHWItems.ods
+        ItemIDS.ods
 
 Step 4: Run the Program
 
