@@ -8,12 +8,9 @@ Step 1: Install Python
 Step 2: Install Required Libraries
 
     Open a terminal (Command Prompt for Windows, Terminal for macOS or Linux).
-    Install the libraries by typing the following commands one by one and pressing Enter:
+    Install the libraries by typing the following command:
 
-pip install pandas
-pip install fuzzywuzzy
-pip install PyQt6
-pip install odfpy
+pip install pandas fuzzywuzzy PyQt6 odfpy
 
 Step 3: Save the Files
 
